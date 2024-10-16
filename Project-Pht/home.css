@@ -1,0 +1,56 @@
+
+
+.fa-images {
+    font-size: 50px !important; 
+    margin-bottom: 20px;
+}
+.fa-camera-retro{
+    font-size: 50px !important;
+    margin-bottom: 20px;  
+}
+.fa-gem{
+    font-size: 50px !important; 
+    margin-bottom: 20px;
+}
+.fa-handshake {
+    font-size: 50px !important;
+    margin-bottom: 20px;
+}
+
+h6 {
+    margin-bottom: 50px;
+}
+
+.bg-color {
+    background-color:#f2f1ef!important ;
+}
+/* img {
+    position: absolute;
+
+} */
+
+.imgg p{
+    text-align: center;
+    font-family:sans-serif;
+    color: white;
+}
+
+
+
+input{
+    height: 50px;
+    /* padding: 10px; */
+    border: 0;
+}
+button {
+    height: 50px;
+    width: 250px;
+    
+}
+
+.het {
+    height: 445px;
+}
+
+
+

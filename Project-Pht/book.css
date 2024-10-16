@@ -1,0 +1,29 @@
+.bg-clr {
+    background-color:#f2f1ef!important ;
+}
+
+.fa-facebook-f {
+    font-size: 50px !important; 
+    
+}
+
+.fa-instagram {
+    font-size: 50px !important
+}
+
+.fa-envelope {
+    font-size: 50px !important
+}
+
+.fa-whatsapp {
+    font-size: 50px !important
+}
+
+.container a{
+text-decoration: none;
+color: black;
+}
+
+.bar-clr {
+    background-color: #ecec0cd9;
+}
